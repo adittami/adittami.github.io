@@ -1,7 +1,8 @@
-<!DOCTYPE html>
 <html>
-<body>
-<h1>Hello World</h1>
-<p>I'm hosted with GitHub Pages.</p>
-</body>
+  <head>
+    <meta http-equiv="refresh" content="7; url='https://amandadittami.myportfolio.com/'" />
+  </head>
+  <body>
+    <p>Please follow <a href="https://amandadittami.myportfolio.com/">this link</a>.</p>
+  </body>
 </html>
